@@ -14,7 +14,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:gravity="center_vertical|center_horizontal"
-        android:background="@drawable/backgroud"
         android:id="@+id/signInForm">
 
         <EditText
